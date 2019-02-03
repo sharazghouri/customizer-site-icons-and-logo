@@ -91,10 +91,14 @@ The Site Logo allows you to replace the default text-based Site Title and Site T
 2.  Smart Phone Home Screen Icon
 3.  Website Footer
 
-**Answer:** #1 and #2 **Where does the site logo appear? (select all correct answers)**
+**Answer:** 1. Browser Menu Bar and 2. Smart Phone Home Screen Icon
+
+***
+
+**Where does the site logo appear? (select all correct answers)**
 
 1.  Website Footer
 2.  Replaces Site Title in Website Header
 3.  Smart Phone Home Screen
 
-**Answer:** #2
+**Answer:** 2. Replaces Site Title in Website Header
